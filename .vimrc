@@ -33,3 +33,5 @@ call plug#end()
 
 let g:material_theme_style = 'darker'
 colorscheme material
+
+highlight LineNr term=bold cterm=NONE ctermfg=White ctermbg=NONE gui=NONE guifg=DarkGrey guibg=NONE
