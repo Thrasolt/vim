@@ -28,6 +28,9 @@ Plug 'vim-airline/vim-airline'
 Plug 'mbbill/undotree'
 Plug 'tpope/vim-fugitive'
 Plug 'kaicataldo/material.vim'
+Plug 'hashivim/vim-vagrant'
+Plug 'airblade/vim-gitgutter'
+Plug 'pearofducks/ansible-vim'
 
 call plug#end()
 
