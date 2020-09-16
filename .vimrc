@@ -2,8 +2,8 @@ syntax on
 filetype plugin indent on
 
 
-set tabstop=4
-set softtabstop=4
+set tabstop=2
+set softtabstop=2
 set expandtab
 
 set number
@@ -31,6 +31,7 @@ Plug 'kaicataldo/material.vim'
 Plug 'hashivim/vim-vagrant'
 Plug 'airblade/vim-gitgutter'
 Plug 'pearofducks/ansible-vim'
+Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
